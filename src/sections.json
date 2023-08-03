@@ -1,0 +1,21 @@
+[
+    {
+      "id": "section1",
+      "sec_no": 1,
+      "title": "Profile Activity",
+      "cN": "profile-section"
+    },
+    {
+      "id": "section2",
+      "sec_no": 2,
+      "title": "Profile Analysis Overview",
+      "cN": "resume-builder-section"
+    },
+    {
+      "id": "section3",
+      "sec_no": 3,
+      "title": "Resume Builder",
+      "cN": "resume-builder-section"
+    }
+  ]
+  
